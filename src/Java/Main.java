@@ -1,4 +1,4 @@
-package oblig;
+package Java;
 
 public class Main {
 

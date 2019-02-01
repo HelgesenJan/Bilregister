@@ -1,4 +1,4 @@
-package oblig;
+package Java;
 
 import java.text.Collator;
 import java.util.ArrayList;
